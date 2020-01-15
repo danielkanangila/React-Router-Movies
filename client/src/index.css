@@ -58,7 +58,7 @@ a.movie-director {
 }
 .save-wrapper {
   position: relative;
-  width: 75%;
+  width: 100%;
   margin: 1rem auto;
 }
 .save-button {
@@ -74,7 +74,7 @@ a.movie-director {
   color: white;
 }
 
-.home-button {
+a.home-button {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
