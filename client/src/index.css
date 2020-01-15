@@ -70,3 +70,8 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+.movies-container {
+  width: 79%;
+  margin: 0 auto;
+}
