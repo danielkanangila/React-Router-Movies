@@ -9,8 +9,7 @@ a {
   text-decoration: none;
 }
 
-.movie-card,
-a.movie-card {
+.movie-card {
   display: block;
   background-color: #fff;
   border: 0;
@@ -23,8 +22,7 @@ a.movie-card {
   color: black;
 }
 
-.movie-director,
-a.movie-director {
+.movie-director {
   padding: 4px 0;
   font-size: 0.8rem;
 }
